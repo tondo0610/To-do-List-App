@@ -1,0 +1,10 @@
+.todoWarapper{
+    display: flex;
+    justify-content: center;
+}
+.todo:hover{
+    cursor: pointer;
+}
+.icon:hover{
+    cursor: pointer;
+}
